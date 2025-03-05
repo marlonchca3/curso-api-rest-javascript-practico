@@ -1,0 +1,1 @@
+console.log('API URL= http://localhost:3000/api?key=' + API_KEY);
